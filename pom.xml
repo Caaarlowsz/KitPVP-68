@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.stopbox</groupId>
-    <artifactId>WitherGunz</artifactId>
-    <version>1.8-SNAPSHOT</version>
+    <artifactId>KitPVP</artifactId>
+    <version>0.0.1a</version>
     <name>WitherGunz</name>
-    <description>Be able to shoot witherheads with a wooden hoe!</description>
+    <description>KitPVP</description>
     <repositories>
         <repository>
             <id>bukkit</id>
@@ -16,7 +16,7 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>craftbukkit</artifactId>
-            <version>1.6.4-R0.1-SNAPSHOT</version>
+            <version>1.7.9</version>
             <scope>provided</scope>
         </dependency>
 
