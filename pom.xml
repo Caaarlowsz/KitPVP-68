@@ -3,7 +3,7 @@
     <groupId>me.stopbox</groupId>
     <artifactId>KitPVP</artifactId>
     <version>0.0.1a</version>
-    <name>WitherGunz</name>
+    <name>KitPVP</name>
     <description>KitPVP</description>
     <repositories>
         <repository>
