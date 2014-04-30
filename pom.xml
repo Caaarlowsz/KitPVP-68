@@ -136,6 +136,7 @@
 				<directory>${basedir}/src/main/resources/</directory>
 				<includes>
 					<include>plugin.yml</include>
+					<include>*</include>
 					<include>re_classes.txt</include>
 				</includes>
 			</resource>
